@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/dskowronski
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://skowron.ski
+  * I am dskowronski (https://keybase.io/dskowronski) on keybase.
+  * I have a public key with fingerprint 9096 7C42 BBC6 0BC6 1111  E86F E338 2825 9A4A 062D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f8f2f900a54362ece48d3afe965cc4fb0527409e75c251d4061aa83b79fe70700a",
+      "fingerprint": "90967c42bbc60bc61111e86fe33828259a4a062d",
+      "host": "keybase.io",
+      "key_id": "e33828259a4a062d",
+      "kid": "0101f8f2f900a54362ece48d3afe965cc4fb0527409e75c251d4061aa83b79fe70700a",
+      "uid": "cbafd8fd846c5dd478c1c3cad53e6d19",
+      "username": "dskowronski"
+    },
+    "service": {
+      "hostname": "skowron.ski",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1534767318,
+  "expire_in": 157680000,
+  "prev": "5b375e0157b84caa12faa0223bb212fda828cc7ed13d4df1b25c254c59fef34b",
+  "seqno": 40,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMM9AnicrZJrTBRXGIYXBVJQblpssAo4YsGw0LnP7GJJxTYotAGqoUFMl5k5Z2BY
+3MGdWW6WpSBigtKKTWi5lDYQsKkgttUa2zRxhVArRtoixl4ABWpjIVERsZiCPUPo
+v/7syUzOzHzP+873vTl9AStN/l4TfMyWphTfOK8BT5PLlF125sZBTFRBKWY9iNnh
+0gYLANR0m10BmBXDCZyQeZmULTguMDTFklCCNA8oQYYWlpEkWhZxhuRo3AI5RiIZ
+AtA4SwgCT4mcRYYcziEhZsZkxZELnYVOxaEjWwtuYTmJJkVRYnF0E2hBnpUhRfEk
+TzIWgRZwlgRImKdqhgI1JwoajFdU9A292Jba+w/+f+7btWQniYIMeHTRrMQAQHO8
+REiUJACGgiwgLAaoQadD2A8RDTS7WuxUHZpdwcrNGCoUKRI0sjWGWYaWmXgDMmOF
+TlVXJbUAFfJ0vVCzGkK9tNAgi6FoW/awiYoDoCSRogg6NUV1YFYCkZKuGKYEQ9Ec
+y1EEb8ZgSaHihDbFIBiO5XG0jP/AImTJiBTHQBwVRJ6WBIEgZUHASZISRRI9AwGl
+KkkcBAQFaCATImlkREsMikamaBEzpjrgUDErjUx1IdcYSMl1CLrLCbHyS5593iYv
+f5OvzwrjiJn8/YL/PXgvuIKeusI2R7c1XJ3YISZHnIlorLnGVYw0zlTemm767XG4
+aaa6qW5Vzu4LrczO7vVht9KOTjdW3Uz7wEu5T35zfmquoGvXlRuttpZtw6lb+MDH
+WS1fTH8v5/e0qaV7nsTUPjP5PhGUcZxPP7f6p5zxNZ6P1M7Rm4GmB49qezJfbB2I
+jW2II7amm1+KCi2+1BG6bUy5cte2IVN6nv85cE/HV/xJz8Ndcxk56z4eHA9dCA6u
+SJ2iup6Qi82QGUr4fe+P5X/V1Gty/0TWuwv6Z4ntkeuTsWb3r5+HZm++HOk5eurr
+qyMb7X1TlQHjw54/ak7UHCkDfe29fOpOsKr2Db9DPv11zrzd11e+He0bwsZX7/u7
+arYkbXi0fkVCw3zi4alZxp3SMppQG/xL3Mv5UvVamhGjvjwdfTaJjvK+O3d/vsZd
+25QxxAfMnOymwMU11+7c7e8M+pQ7lBhCD9Qdjkna/+09LfqTdcMduYt1t+ePa8cG
+XyeO7Aixzpe5LyT+SfNvNTS82g6SXSlrNT92+3PvnYrYuLD3jpc5LDHbu62j4LXQ
+TR/mPXonOep67MBYl3QiwEFkRZ7OJ3tLujOHqnMrmIX8TclPVy+OVVb90JMS5XOu
+5OH25oLBi9qG8N6c70Ymu/TAs4I9vTjDu6XdnX5eC4/vdc8+u/VAW6VamdAZcO/2
+gzdfmbycVA/qMv4BlRe60g==
+=r844
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dskowronski
+
+==================================================================

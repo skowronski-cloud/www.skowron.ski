@@ -1,0 +1,4 @@
+Contact: https://skowron.ski/#contact
+Encryption: https://keybase.io/dskowronski/pgp_keys.asc
+Preferred-Languages: en
+
