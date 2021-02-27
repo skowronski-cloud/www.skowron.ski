@@ -1,6 +1,15 @@
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600&subset=latin-ext");
-@import url("https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400,400i,700,700i&subset=latin-ext");
-
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/assets/fonts/Ubuntu.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/assets/fonts/UbuntuMono.woff2) format('woff2');
+}
 /*
 	Dimension by HTML5 UP
 	html5up.net | @ajlkn
@@ -141,14 +150,14 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: "Source Sans Pro", sans-serif;
-		font-weight: 300;
+		font-family: "Ubuntu", sans-serif;
+		/*font-weight: 300;*/
 		font-size: 1rem;
 		line-height: 1.65;
 	}
 
 	kbd, pre, code {
-		font-family: 'IBM Plex Mono', monospace !important;
+		font-family: 'Ubuntu Mono', monospace !important;
 	}
 
 	a {
@@ -205,13 +214,13 @@ input, select, textarea {
 	h1 {
 		font-size: 2.25rem;
 		line-height: 1.3;
-		letter-spacing: 0.5rem;
+		letter-spacing: 0.25rem;
 	}
 
 	h2 {
 		font-size: 1.5rem;
 		line-height: 1.4;
-		letter-spacing: 0.5rem;
+		letter-spacing: 0.25rem;
 	}
 
 	h3 {
@@ -1317,12 +1326,12 @@ input, select, textarea {
 					margin-bottom: 0;
 				}
 
-			#header .content p {
+			/*#header .content p {
 				text-transform: uppercase;
 				letter-spacing: 0.2rem;
 				font-size: 0.8rem;
 				line-height: 2;
-			}
+			}*/
 
 		#header nav ul {
 			display: -moz-flex;
@@ -1348,13 +1357,16 @@ input, select, textarea {
 				#header nav ul li a {
 					display: block;
 					min-width: 7.5rem;
-					height: 2.75rem;
-					line-height: 2.75rem;
-					padding: 0 1.25rem 0 1.45rem;
+					height: 2.5rem;
+					line-height: 1.1rem;
+					/*padding: 0 1.25rem 0 1.25rem;*/
+					padding: 2px;
 					text-transform: uppercase;
 					letter-spacing: 0.2rem;
 					font-size: 0.8rem;
 					border-bottom: 0;
+					font-weight: 400;
+					width: 175px;
 				}
 
 					#header nav ul li a:hover {
